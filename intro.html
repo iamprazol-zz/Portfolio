@@ -6,7 +6,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
     <link rel="icon" type="image/png" href="../assets/img/favicon.png">
     <title>
-        Prajjwal Poudel•Intro
+        Prajjwal Poudel • Intro
     </title>
     <!-- Extra details for Live View on GitHub Pages -->
     <!-- Canonical SEO -->
@@ -78,7 +78,7 @@
             <div class="row" style="margin-top: -10px;">
                 <div class="col-lg-6 col-md-6" style="margin-top: 80px;" >
                     <h1 class="text-on-back" style="font-size: 100px;">Prajjwal Poudel</h1>
-                    <p class="profile-description">Hey There Stranger :D :D </p><br>
+                    <p class="profile-description">Hey There Stranger <i class="tim-icons icon-satisfied"></i>&nbsp;<i class="tim-icons icon-satisfied"></i> </p><br>
                     <p class="profile-description">This is Prajjwal Poudel's official website. This website depicts a part of me. Welcome to my world.</p>
                     <div class="btn-wrapper">
                         <div class="button-container">
@@ -108,31 +108,87 @@
                         <div class="card-body">
                             <ul class="nav nav-tabs nav-tabs-primary justify-content-center">
                                 <li class="nav-item">
-                                    <a class="nav-link active show" href="intro.html">
+                                    <a class="nav-link active"  data-toggle="tab" href="#aboutme">
+                                        <i class="tim-icons icon-single-02"></i>&nbsp;
                                         About
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="cv.html" class="nav-link" >
+                                        <i class="tim-icons icon-paper"></i>&nbsp;
                                         CV
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="project.html" class="nav-link" >
+                                    <a href="#contactme"  data-toggle="tab" class="nav-link">
+                                        <i class="tim-icons icon-chat-33"></i>&nbsp;
                                         Contact
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="project.html" class="nav-link">
+                                        <i class="tim-icons icon-components"></i>&nbsp;
                                         Projects
                                     </a>
                                 </li>
                             </ul>
-                            <h4 class="title" style="margin-bottom: 2px;">About Me</h4><hr style="border-bottom: solid 1px #ffffff; margin-top: 0px !important;">
-
-                            <div class="card-description">
-                                <p>Being a Student of <strong>Computer Engineering</strong>, currently studing at Western Regional Engineering Campus, I always put myself forward when it comes to learning innovative things about technology.</p><hr style="margin-left: 10%; width: 76%; border-bottom: solid 1px #ffffff;">
-                                <p>In the course of learning, i have made myself proficient in developing back end of web applications using <strong>laravel</strong> technology. I have some experience in developing web applications as well as developing web API for mobile applications by being a back-end developer in a team of tech enthusiasts.</p>
+                            <div class="tab-content tab-subcategories">
+                                <div class="tab-pane active" id="aboutme">
+                                    <h4 class="title" style="margin-bottom: 2px;">About Me</h4><hr style="border-bottom: solid 1px #ffffff; margin-top: 0px !important;">
+                                    <div class="card-description">
+                                        <p>Being a Student of <strong>Computer Engineering</strong>, currently studing at Western Regional Engineering Campus, I always put myself forward when it comes to learning innovative things about technology.</p>
+                                        <hr style="margin-left: 10%; width: 76%; border-bottom: solid 1px #ffffff;">
+                                        <p>In the course of learning, i have made myself proficient in developing back end of web applications using <strong>laravel</strong> technology. I have some experience in developing web applications as well as developing web API for mobile applications by being a back-end developer in a team of tech enthusiasts.</p>
+                                        <hr style="margin-left: 10%; width: 76%; border-bottom: solid 1px #ffffff;">
+                                        <button type="submit" class="btn btn-warning float-left" rel="tooltip" data-original-title="Mail me at!" style="margin-left: -2%;"><i class="tim-icons icon-email-85"></i>&nbsp;&nbsp;iamprazol@gmail.com</button>
+                                        <button type="submit" class="btn btn-warning float-right" rel="tooltip" data-original-title="Give me a call!"><i class="tim-icons icon-mobile"></i>&nbsp;&nbsp;9845690436</button>
+                                        <div class="v1" style="border-left: solid 1px #ffffff; height: 8%; margin-left: 56.5%;"></div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane" id="contactme">
+                                    <h4 class="title" style="margin-bottom: 2px;">Contact Me</h4><hr style="border-bottom: solid 1px #ffffff; margin-top: 0px !important;">
+                                    <div class="card-description">
+                                        <form>
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <div class="form-group">
+                                                        <label>Your Name</label>
+                                                        <input type="text" class="form-control" value="eg. Mike">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <div class="form-group">
+                                                        <label>Email address</label>
+                                                        <input type="email" class="form-control" placeholder="eg. mike@email.com">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <div class="form-group">
+                                                        <label>Phone</label>
+                                                        <input type="text" class="form-control" value="eg. 9821253645">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <div class="form-group">
+                                                        <label>Address</label>
+                                                        <input type="text" class="form-control" value="eg. Lamachaur-16, Pokhara">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="form-group">
+                                                        <label>Message</label>
+                                                        <input type="text" class="form-control" placeholder="Hello there!">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <button type="submit" class="btn btn-primary btn-round float-right" rel="tooltip" data-original-title="Can't wait for your message" data-placement="right">Send text</button>
+                                        </form>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
