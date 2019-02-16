@@ -3,10 +3,235 @@
   <component name="ChangeListManager">
     <list default="true" id="37f8cac4-44a8-4660-9948-0f202b55ad38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/css/blk-design-system.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/css/blk-design-system.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/css/blk-design-system.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/css/nucleo-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/demo/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/demo/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/fonts/nucleo.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/fonts/nucleo.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/fonts/nucleo.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/fonts/nucleo.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/asc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/bitcoin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/blob.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/cercuri.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/chester-wade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/denys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/desc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/dots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/etherum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/fabien-bazanegue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/james.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/julie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/landing-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/lora.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/mark-finn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/mike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/nucleo-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/path1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/path2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/path3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/path4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/path5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/patrat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/profile-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/ripp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/ryan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/square-purple-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/square1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/square2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/square3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/square4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/square5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/square6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/triunghiuri.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/img/waves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/blk-design-system.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/blk-design-system.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/blk-design-system.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/core/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/core/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/core/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/plugins/bootstrap-datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/plugins/bootstrap-datetimepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/plugins/bootstrap-switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/plugins/chartjs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/plugins/jquery.sharrre.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/plugins/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/plugins/nouislider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/js/plugins/perfect-scrollbar.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/bootstrap/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_checkboxes-radio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_example-pages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_fixed-plugin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_info-areas.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_misc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_pills.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_rtl.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_sections.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_tabs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/cards/_card-chart.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/cards/_card-map.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/cards/_card-plain.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/cards/_card-register.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/cards/_card-stats.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/cards/_card-task.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/cards/_card-user.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_inputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_page-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_popovers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_vendor-prefixes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/_wizard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/mixins/opacity.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/sections/_blogs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/sections/_contactus.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/sections/_features.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/sections/_headers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/sections/_pricing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/sections/_projects.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/sections/_social-subscribe-lines.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/sections/_team.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/sections/_testimonials.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/utilities/_backgrounds.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/utilities/_floating.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/utilities/_helper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/utilities/_transform.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/vendor/_plugin-animate-bootstrap-notify.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/vendor/_plugin-bootstrap-switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/vendor/_plugin-datetimepicker.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/vendor/_plugin-nouislider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/assets/scss/blk-design-system/custom/vendor/_plugin-perfect-scrollbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/docs/documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/examples/landing-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/examples/profile-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/examples/register-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blk-design-system-html-v1.0.0/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +247,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intro.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2610">
-              <caret line="186" column="146" selection-start-line="186" selection-start-column="146" selection-end-line="186" selection-end-column="146" />
+            <state relative-caret-position="2910">
+              <caret line="221" column="45" lean-forward="true" selection-start-line="202" selection-start-column="43" selection-end-line="221" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -44,41 +269,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cv.html">
+        <entry file="file://$PROJECT_DIR$/project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+            <state relative-caret-position="195">
+              <caret line="65" column="103" selection-start-line="65" selection-start-column="103" selection-end-line="65" selection-end-column="103" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+        <entry file="file://$PROJECT_DIR$/msg-con.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/blk-design-system.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="16553" column="1" selection-start-line="16547" selection-start-column="2" selection-end-line="16553" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="135">
+              <caret line="104" column="18" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -130,10 +344,11 @@
         <option value="$PROJECT_DIR$/assets/css/blk-design-system.css" />
         <option value="$PROJECT_DIR$/project.html" />
         <option value="$PROJECT_DIR$/intro.html" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/intro.php" />
         <option value="$PROJECT_DIR$/cv.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/msg-con.php" />
       </list>
     </option>
   </component>
@@ -160,17 +375,6 @@
             <path>
               <item name="portfoilo" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfoilo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfoilo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfoilo" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfoilo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfoilo" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,12 +437,12 @@
       <workItem from="1550148017125" duration="6734000" />
       <workItem from="1550211085250" duration="14783000" />
       <workItem from="1550250620861" duration="3705000" />
-      <workItem from="1550316150688" duration="3194000" />
+      <workItem from="1550316150688" duration="4844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64631000" />
+    <option name="totallyTimeSpent" value="66281000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,7 +470,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32943144" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32669982" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32608697" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -294,18 +498,72 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html" />
-    <entry file="file://$PROJECT_DIR$/blk-design-system-html-v1.0.0/examples/profile-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="146" column="24" lean-forward="true" selection-start-line="128" selection-start-column="20" selection-end-line="146" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/nucleo-icons.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blk-design-system-html-v1.0.0/examples/landing-page.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/blk-design-system.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16553" column="1" selection-start-line="16547" selection-start-column="2" selection-end-line="16553" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="314" column="7" lean-forward="true" selection-start-line="287" selection-end-line="314" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2910">
+          <caret line="221" column="45" lean-forward="true" selection-start-line="202" selection-start-column="43" selection-end-line="221" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blk-design-system-html-v1.0.0/examples/profile-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="125" column="26" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="125" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -325,57 +583,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
+    <entry file="file://$PROJECT_DIR$/msg-con.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2610">
-          <caret line="186" column="146" selection-start-line="186" selection-start-column="146" selection-end-line="186" selection-end-column="146" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/blk-design-system.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="16553" column="1" selection-start-line="16547" selection-start-column="2" selection-end-line="16553" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="135">
+          <caret line="104" column="18" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="18" />
         </state>
       </provider>
     </entry>
