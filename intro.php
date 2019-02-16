@@ -45,6 +45,7 @@
     <link href="assets/demo/demo.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
 
+
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
@@ -136,7 +137,7 @@
                             </ul>
                             <div class="tab-content tab-subcategories">
                                 <div class="tab-pane active" id="aboutme">
-                                    <h4 class="title" style="margin-bottom: 2px;">About Me</h4><hr style="border-bottom: solid 1px #ffffff; margin-top: 0px !important;">
+                                    <h4 class="title" style="margin-bottom: 2px; font-size: 22px;">About Me</h4><hr style="border-bottom: solid 1px #ffffff; margin-top: 0px !important;width: 34%; margin-left: 32%">
                                     <div class="card-description">
                                         <p>Being a Student of <strong>Computer Engineering</strong>, currently studing at Western Regional Engineering Campus, I always put myself forward when it comes to learning innovative things about technology.</p>
                                         <hr style="margin-left: 10%; width: 76%; border-bottom: solid 1px #ffffff;">
@@ -148,20 +149,20 @@
                                     </div>
                                 </div>
                                 <div class="tab-pane" id="contactme">
-                                    <h4 class="title" style="margin-bottom: 2px;">Contact Me</h4><hr style="border-bottom: solid 1px #ffffff; margin-top: 0px !important;">
+                                    <h4 class="title" style="margin-bottom: 2px;font-size: 22px;">Contact Me</h4><hr style="width: 40%; margin-left: 30%;border-bottom: solid 1px #ffffff; margin-top: 0px !important;">
                                     <div class="card-description">
-                                        <form>
+                                        <form method="post">
                                             <div class="row">
                                                 <div class="col-md-6">
                                                     <div class="form-group">
                                                         <label>Your Name</label>
-                                                        <input type="text" class="form-control" value="eg. Mike">
+                                                        <input name="name" type="text" class="form-control" placeholder="eg. Mike" required>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6">
                                                     <div class="form-group">
                                                         <label>Email address</label>
-                                                        <input type="email" class="form-control" placeholder="eg. mike@email.com">
+                                                        <input name="email" type="email" class="form-control" placeholder="eg. mike@email.com" required>
                                                     </div>
                                                 </div>
                                             </div>
@@ -169,13 +170,13 @@
                                                 <div class="col-md-6">
                                                     <div class="form-group">
                                                         <label>Phone</label>
-                                                        <input type="text" class="form-control" value="eg. 9821253645">
+                                                        <input name="phone" type="text" class="form-control" placeholder="eg. 9821253645">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6">
                                                     <div class="form-group">
                                                         <label>Address</label>
-                                                        <input type="text" class="form-control" value="eg. Lamachaur-16, Pokhara">
+                                                        <input name="address" type="text" class="form-control" placeholder="eg. Lamachaur-16, Pokhara">
                                                     </div>
                                                 </div>
                                             </div>
@@ -183,12 +184,44 @@
                                                 <div class="col-md-12">
                                                     <div class="form-group">
                                                         <label>Message</label>
-                                                        <input type="text" class="form-control" placeholder="Hello there!">
+                                                        <input name="message" type="text" class="form-control" placeholder="Hello there!" required>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <button type="submit" class="btn btn-primary btn-round float-right" rel="tooltip" data-original-title="Can't wait for your message" data-placement="right">Send text</button>
+                                            <button name="submit" type="submit" class="btn btn-primary btn-round float-right" rel="tooltip" data-original-title="Can't wait for your message" data-placement="right"><i class="tim-icons icon-send"></i></button>
                                         </form>
+                                        <?php
+
+                                        include("contact.php");
+                                        $name = $_POST['name'];
+                                        $email = $_POST['email'];
+                                        $phone = $_POST['phone'];
+                                        $address = $_POST['address'];
+                                        $message = $_POST['message'];
+
+                                        if(isset($_POST["submit"])){
+                                            $query = "SELECT * FROM `contact`";
+                                            $run = mysqli_query($con, $query);
+                                            if ($run == true) {
+                                                $query = "INSERT INTO `contact` (`id`, `name`, `email`, `phone`, `address`, `message`) VALUES (NULL ,'$name', '$email', '$phone', '$address', '$message')";
+                                                if (mysqli_query($con, $query) == true) {
+                                                    ?>
+                                                    <script>
+                                                        alert('Message has been sent');
+                                                        window.open('intro.php','self');
+                                                    </script>
+                                                <?php
+                                                } else {
+                                                ?>
+                                                    <script>
+                                                        alert('Message cannot be sent');
+                                                        window.open('intro.php','self');
+                                                    </script>
+                                                <?php                                                            }
+
+                                            }
+                                        }
+                                        ?>
                                     </div>
                                 </div>
                             </div>
