@@ -25,43 +25,50 @@ body{
 .path-1{
     height: auto;
     position: absolute;
-    opacity: 0.02;
+    opacity: 0.05;
     right: auto;
-    left: 420px;
-    max-width: 10%;
-    top: 420px;
-}
-}
-
-.page-header{
-    max-height: 2500px !important;
+    left: 10%;
+    max-width: 50%;
+    top: 40%;
 }
 
-.close {
+.path-2{
+    height: auto;
+    position: absolute;
+    opacity: 0.05;
+    left: auto;
+    right: 10%;
+    max-width: 50%;
+    top: 75%;
+}
+
+.exit {
     position: absolute;
     right: 32px;
     top: 32px;
     width: 32px;
     height: 32px;
-    opacity: 0.3;
-}
-.close:hover {
     opacity: 1;
 }
-.close:before, .close:after {
+.exit:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+.exit:before, .exit:after {
     position: absolute;
     left: 15px;
     content: ' ';
     height: 33px;
     width: 2px;
-    background-color: #333;
+    background-color: #FFFFFF;
 }
-.close:before {
+.exit:before {
     transform: rotate(45deg);
 }
-.close:after {
+.exit:after {
     transform: rotate(-45deg);
 }
+
 .topic {
     margin-left:31% !important;
     width:38% !important;
@@ -73,9 +80,9 @@ body{
     letter-spacing: 0.3rem;
     top: 0px;
     font-weight: bolder;
-    left: 10%;
     margin-bottom: 0px;
-    margin-left: 1%;
+    margin-left: 31.5%;
+    font-size: 22px;
 }
 
 .protitle {
@@ -120,8 +127,8 @@ body{
 
 .bottom-topic {
     margin-left: 1%;
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
     width: 98%;
     border-bottom: solid 1px #ffffff;
 }

@@ -74,15 +74,15 @@
 </noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="wrapper">
-    <div class="page-header">
+    <div class="page-header" style="max-height: 1000px !important;">
         <img src="assets/img/dots.png" class="dots">
         <img src="assets/img/path4.png" class="path">
         <div class="container align-items-center">
             <div class="row" style="margin-top: -10px;">
                 <div class="col-lg-6 col-md-6" style="margin-top: 80px;" >
                     <h1 class="text-on-back" style="font-size: 100px;">Prajjwal Poudel</h1>
-                    <p class="profile-description">Hey There Stranger <i class="tim-icons icon-satisfied"></i>&nbsp;<i class="tim-icons icon-satisfied"></i> </p><br>
-                    <p class="profile-description">This is Prajjwal Poudel's official website. This website depicts a part of me. Welcome to my world.</p>
+                    <p>Hey There Stranger <i class="tim-icons icon-satisfied"></i>&nbsp;<i class="tim-icons icon-satisfied"></i> </p><br>
+                    <p>This is Prajjwal Poudel's official website. This website depicts a part of me. Welcome to my world.</p>
                     <div class="btn-wrapper">
                         <div class="button-container">
                             <a href="https://www.facebook.com/iamprazol" class="btn btn-icon btn-simple btn-round btn-neutral">
@@ -137,19 +137,19 @@
                             </ul>
                             <div class="tab-content tab-subcategories">
                                 <div class="tab-pane active" id="aboutme">
-                                    <h4 class="title" style="margin-bottom: 2px; font-size: 22px;">About Me</h4><hr style="border-bottom: solid 1px #ffffff; margin-top: 0px !important;width: 34%; margin-left: 32%">
+                                    <h4 class="protitle-1">About Me</h4><hr style="width: 33%; margin-left: 30%;border-bottom: solid 1px #ffffff; margin-top: 0px !important;">
                                     <div class="card-description">
                                         <p>Being a Student of <strong>Computer Engineering</strong>, currently studing at Western Regional Engineering Campus, I always put myself forward when it comes to learning innovative things about technology.</p>
-                                        <hr style="margin-left: 10%; width: 76%; border-bottom: solid 1px #ffffff;">
+                                        <div class = "bottom-topic"></div>
                                         <p>In the course of learning, i have made myself proficient in developing back end of web applications using <strong>laravel</strong> technology. I have some experience in developing web applications as well as developing web API for mobile applications by being a back-end developer in a team of tech enthusiasts.</p>
-                                        <hr style="margin-left: 10%; width: 76%; border-bottom: solid 1px #ffffff;">
+                                        <div class = "bottom-topic"></div>
                                         <button type="submit" class="btn btn-warning float-left" rel="tooltip" data-original-title="Mail me at!" style="margin-left: -2%;"><i class="tim-icons icon-email-85"></i>&nbsp;&nbsp;iamprazol@gmail.com</button>
                                         <button type="submit" class="btn btn-warning float-right" rel="tooltip" data-original-title="Give me a call!"><i class="tim-icons icon-mobile"></i>&nbsp;&nbsp;9845690436</button>
                                         <div class="v1" style="border-left: solid 1px #ffffff; height: 8%; margin-left: 56.5%;"></div>
                                     </div>
                                 </div>
                                 <div class="tab-pane" id="contactme">
-                                    <h4 class="title" style="margin-bottom: 2px;font-size: 22px;">Contact Me</h4><hr style="width: 40%; margin-left: 30%;border-bottom: solid 1px #ffffff; margin-top: 0px !important;">
+                                    <h4 class="protitle-1" >Contact Me</h4><hr style="width: 40%; margin-left: 30%;border-bottom: solid 1px #ffffff; margin-top: 0px !important;">
                                     <div class="card-description">
                                         <form method="post">
                                             <div class="row">
