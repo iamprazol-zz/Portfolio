@@ -133,6 +133,7 @@ body{
     border-bottom: solid 1px #ffffff;
 }
 
-p{
+.para {
     margin-left: 4%;
+    font-weight: 300;
 }
